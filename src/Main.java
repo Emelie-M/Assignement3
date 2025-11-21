@@ -39,6 +39,10 @@ public class Main {
                     }catch (PassCheck p){
                         System.out.println(p);
                     }
+                    System.out.println("Enter the first hint: ");
+                    System.out.println("Enter the answer to the first hint: ");
+                    System.out.println("Enter the second hint: ");
+                    System.out.println("Enter the answer to the second hint: ");
                     break;
                 case 2:
                     System.out.println("Enter password: ");
